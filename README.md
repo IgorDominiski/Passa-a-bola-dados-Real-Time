@@ -22,15 +22,15 @@ https://wokwi.com/projects/444088190423301121
 - Garantir conectividade MQTT para dados de sensores
 - Fornecer experiência completa de monitoramento
 
-## 🖼️ Screenshots de Integração IoT
+## Video pagina em funcionamento e info mqtt no celular
 
 ### Página IoT em Funcionamento dentro passa a bola e fora
-![IoT Dashboard](https://youtu.be/uhJ_Q9Jhq7M)
+https://youtu.be/uhJ_Q9Jhq7M
 *Interface principal mostrando dados de velocidade e rotação em tempo real*
 
 ### Status de Conexão MQTT
-![MQTT Status](![Screenshot_20251006_151205_MyMQTT](https://github.com/user-attachments/assets/30d02f14-513a-4a91-abc1-2539024a38c2)
-)
+Screenshot_20251006_151205_MyMQTT](https://github.com/user-attachments/assets/30d02f14-513a-4a91-abc1-2539024a38c2
+
 *Indicador visual do status da conexão MQTT*
 
 ## 🛠️ Tecnologias Utilizadas
